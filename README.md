@@ -1,3 +1,5 @@
+https://app.patika.dev/mertyrtclr
+
 
 ![](https://github.com/MertYurtcular/kodluyoruzilkrepo/blob/main/Screenshot%202022-07-11%20130535.png?raw=true)
 # kodluyoruzilkrepo
